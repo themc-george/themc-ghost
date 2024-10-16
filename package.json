@@ -1,6 +1,6 @@
 {
-    "name": "ghost-starter-theme",
-    "description": "A starter theme for Ghost theme development",
+    "name": "themc",
+    "description": "A theme for use on TheMC Network",
     "demo": "https://starter.ghost.io",
     "version": "1.0.0",
     "engines": {
@@ -18,9 +18,9 @@
         "pretest": "npm run build"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "MC Tech Space",
+        "email": "george@themc.network",
+        "url": "https://themc.network"
     },
     "gpm": {
         "type": "theme",
@@ -36,10 +36,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Starter.git"
+        "url": "https://github.com/themc-george/themc-ghost.git"
     },
-    "bugs": "https://github.com/TryGhost/Starter/issues",
-    "contributors": "https://github.com/TryGhost/Starter/graphs/contributors",
+    "bugs": "https://github.com/themc-george/themc-ghost/issues",
+    "contributors": "https://github.com/themc-george/themc-ghost/graphs/contributors",
     "devDependencies": {
         "@babel/core": "^7.21.0",
         "@babel/preset-env": "^7.20.2",
