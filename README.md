@@ -8,6 +8,5 @@ This theme was cloned from the [Ghost Starter Theme](https://github.com/TryGhost
 
 ## Copyright & License
 
+Copyright (c) 2024 MC Tech Space Inc. - Released under the [GNU GPLv3 license](LICENSE).  
 Copyright (c) 2013-2023 Ghost Foundation - Released under the [MIT license](https://github.com/TryGhost/Starter/blob/main/LICENSE).
-&nbsp;
-Copyright (c) 2024 MC Tech Space Inc. - Released under the [GNU GPLv3 license](LICENSE).
